@@ -1,5 +1,5 @@
 # ALFRED-T5
-This repository is the implementation of the paper- Understanding Natural Language in Context.
+This repository is the implementation of the ICAPS 2023 paper - Understanding Natural Language in Context (https://ojs.aaai.org/index.php/ICAPS/article/view/27248) by Avichai Levy and Erez Karpas.
 
 To reproduce the results presented in the paper:
 
